@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Update README
+      run: |
+        # Utilisez l'API GitHub pour mettre à jour le contenu du fichier README
+        # avec les nouvelles statistiques
+        # ...
+        echo "Token: $PAT_1"
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update GitHub stats"
+        git push
+env:
+  PAT_1: ${{ secrets.PAT_1 }}
