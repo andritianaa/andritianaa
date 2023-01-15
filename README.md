@@ -2,7 +2,7 @@
 
 ![Andritianaa's GitHub stats](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api?username=andritianaa&count_private=true&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api/top-langs/?username=andritianaa&layout=compact&hide=smali)
 
@@ -39,6 +39,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
+    
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://api.teratany.org/file/public/1673797649220.jpg" alt="mongodb" width="40" height="40"/> 
 </a> 
