@@ -22,13 +22,13 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
+<p> </p>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs" width="40" height="40"/> 
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react" width="40" height="40"/> 
 </a>
-<p> </p>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/langfr-110px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="50"/> 
 </a> 
@@ -38,27 +38,21 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
+<p> </p>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://api.teratany.org/file/public/1673797649220.jpg" alt="mongodb" width="40" height="40"/> 
 </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://api.teratany.org/file/public/1673797742017.jpg" alt="nginx" width="40" height="40"/> 
-</a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
- <p> </p>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://api.teratany.org/file/public/1673797842100.jpg" alt="xd" width="40" height="40"/> 
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://api.teratany.org/file/public/1673797779855.jpg" alt="photoshop" width="40" height="40"/> 
 </a> 
 </p>
 
