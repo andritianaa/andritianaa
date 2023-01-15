@@ -4,8 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api/top-langs/?username=andritianaa&layout=compact&hide=smali)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -63,6 +61,7 @@
 </a> 
 </p>
 
+![Top Langs](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api/top-langs/?username=andritianaa&layout=compact&hide=smali)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
