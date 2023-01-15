@@ -39,10 +39,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
-    
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://api.teratany.org/file/public/1673797649220.jpg" alt="mongodb" width="40" height="40"/> 
-</a> 
+</a>
+ <p> </p>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://api.teratany.org/file/public/1673797742017.jpg" alt="nginx" width="40" height="40"/> 
 </a> 
