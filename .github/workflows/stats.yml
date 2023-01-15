@@ -8,12 +8,16 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+    - name: Install dependencies
+      run: |
+        npm install
     - name: Update README
       run: |
-        # Utilisez l'API GitHub pour mettre à jour le contenu du fichier README
-        # avec les nouvelles statistiques
-        # ...
-        echo "Token: $PAT_1"
+        npx github-readme-stats --username andritianaa --token $PAT_1
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
