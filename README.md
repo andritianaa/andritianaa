@@ -2,7 +2,7 @@
 
 ![Andritianaa's GitHub stats](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api?username=andritianaa&count_private=true&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)
 
 ![Top Langs](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api/top-langs/?username=andritianaa&layout=compact&hide=smali)
 
