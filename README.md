@@ -4,6 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)](https://git.io/streak-stats)
 
+[![Andritianaa's wakatime stats](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api/wakatime?username=andritianaa&langs_count=6&hide=Text,Markdown)](https://github.com/andritianaa)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
