@@ -1,7 +1,6 @@
 # A developer from Madagascar
 
 ![Andritianaa's GitHub stats](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api?username=andritianaa&count_private=true&show_icons=true)
-![Andritianaa's GitHub stats](https://github-readme-stats-andritianaa-ooo1fglx8-andritianaa.vercel.app/api?username=andritianaa&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)](https://git.io/streak-stats)
 
