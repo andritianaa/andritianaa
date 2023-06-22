@@ -65,8 +65,8 @@
 <a href="https://instagram.com/andritianaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andritianaaa" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on [Teratany](www.teratany.org)
-- 📫 How to reach me **andritianasteve@gmail.com**
+- 🔭 I’m currently open to work
+- 📫 How to reach me **pro@andritiana.tech**
 
 
 
