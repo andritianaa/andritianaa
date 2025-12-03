@@ -39,9 +39,10 @@ En tant que Lead Développeur Fullstack et créateur de boilerplates, je maîtri
 ### 📈 Statistiques GitHub
 
 **Activité Quotidienne (GitHub Streak)**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)](https://git.io/streak-stats)
-
 <br clear="both">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=andritianaa&theme=default)](https://git.io/streak-stats)
+<br clear="both">
+
 ---
 
 ### 🌐 Contactez-moi
