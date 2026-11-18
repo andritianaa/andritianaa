@@ -1,63 +1,32 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Rakotonimanana Andritiana Steve</h1>
-  <p><b>Software Engineer specialized in Backend & Architecture</b> · Computer Science and Telecommunications Engineer (ISPM)</p>
+  <h1>Hi there 👋, I'm Andritiana Steve</h1>
+  <p><b>Backend Software Engineer</b> · TypeScript & Golang · Clean Architecture & DDD</p>
   <p>📍 Antananarivo, Madagascar · 🟢 Open to opportunities</p>
 </div>
 
 ---
 
-### 💻 About me
+I design **robust, scalable systems** and the APIs that make products grow. 4 years of experience, fullstack by background, backend by choice.
 
-Code is a tool, architecture is a strategy. I design **robust, high-performance and scalable** systems with **TypeScript** and **Golang**, with a focus on **Clean Architecture** and **Domain-Driven Design**.
+> *Passion Never Fail*
 
-My fullstack background is an asset: APIs shaped around what the frontend actually needs, and backend engines built to support a product's growth over the long term. 4 years of experience, from February 2022 to today.
+### 🔥 Stack
 
-> **Mantra:** *Passion Never Fail*
-
----
-
-### 🔥 Tech stack
-
-| Category | Tools & Frameworks |
-| :--- | :--- |
-| **Backend & Languages** | `TypeScript` • `Golang` • `Node.js` • `Bun` • `NestJS` • `Express` • `Python` |
-| **Databases & Cache** | `PostgreSQL` • `MongoDB` • `Redis` • `Prisma` • `Supabase` • `Firebase` |
-| **DevOps & Infra** | `Docker` • `Kubernetes` • `Linux` • `Nginx` • `GitHub Actions` • `Jenkins` • `Prometheus` • `Grafana` |
-| **Frontend** | `Next.js` • `React` • `React Native` • `Vue.js` • `Tailwind CSS` • `Shadcn UI` |
-| **Architecture** | `Clean Architecture` • `DDD` • `Microservices` • `REST API` • `GraphQL` • `WebSockets` • `BullMQ` • `Turborepo` |
-| **AI** | `OpenAI API` • Multi-provider orchestration • LLM integration |
-
----
+`TypeScript` `Golang` `Node.js` `Bun` `NestJS` · `PostgreSQL` `MongoDB` `Redis` `Prisma` · `Docker` `Kubernetes` `Linux` `GitHub Actions` · `Next.js` `React` `React Native` `Tailwind CSS`
 
 ### ✨ Projects
 
-* **[Mailaka](https://mailaka.araylab.com)**: self-hosted email platform. Business mailboxes on your own domain, a transactional sending API and an admin console, installed on your server with a single command.
-* **[Selfhostsms](https://sms.araylab.com)**: self-hosted SMS gateway running on your own Android phones. Lifetime license, no per-message cost (one high school sent over 16,000 SMS through it in a single month).
-* **[Maka](https://maka.araylab.com)**: free download manager for Windows and Linux. Multiple connections, resume after interruption, videos, torrents and a browser extension.
-* **[Apply Now](https://cv.araylab.com)**: a resume and cover letter tailored to each job offer, generated from a single career profile.
-* **[École Le Petit Nid](https://c.lpn.mg)**: school management portal (administration, teachers, parents, students), with its mobile app and monitoring.
-* **[Hevitro](https://hevitro.com)**: civic platform for ideas, reports and votes. My engineering final-year project, described by the jury as a "technical masterclass".
-* **[Tiakaly](https://tiakaly.com)**: guide to the best places in Madagascar (300+ places tested, 210k+ followers).
-* **[Pandorra.ai](https://pandorra.ai)**: AI influencer creation (face, voice, video, lip-sync), with multi-provider backend orchestration and asynchronous processing queues.
-* **[FlowSimplicity GMAO](https://play.google.com/store/apps/details?id=com.flowsimplicity.app)**: mobile maintenance management app for field interventions, with offline mode, GPS tracking and signed PDF reports.
----
-
-### 📈 GitHub stats
+* **[Mailaka](https://mailaka.araylab.com)**: self-hosted email platform (mailboxes + sending API)
+* **[Selfhostsms](https://sms.araylab.com)**: self-hosted SMS gateway on your own Android phones
+* **[Maka](https://maka.araylab.com)**: free download manager for Windows and Linux
+* **[Pandorra.ai](https://pandorra.ai)**: AI influencer creation, multi-provider orchestration
+* **[École Le Petit Nid](https://c.lpn.mg)**: school management portal, web and mobile
+* **[Hevitro](https://hevitro.com)**: civic platform for ideas, reports and votes
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=andritianaa&theme=default" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=andritianaa&theme=default" alt="GitHub Streak" />
 </p>
 
----
+### Contact me
 
-### 🌐 Contact
-
-| | |
-| :--- | :--- |
-| **Email** | [andritiana@araylab.com](mailto:andritiana@araylab.com) |
-| **WhatsApp** | [+261 38 62 319 63](https://wa.me/261386231963) |
-| **Portfolio** | [andritiana.vercel.app](https://andritiana.vercel.app) |
-| **LinkedIn** | [andritianaa](https://www.linkedin.com/in/andritianaa/) |
-| **ComeUp** | [@andritiana-steve](https://comeup.com/fr/@andritiana-steve) |
+[Email](mailto:andritiana@araylab.com) · [WhatsApp](https://wa.me/261386231963) · [Portfolio](https://andritiana.vercel.app) · [LinkedIn](https://www.linkedin.com/in/andritianaa/) · [ComeUp](https://comeup.com/fr/@andritiana-steve)
